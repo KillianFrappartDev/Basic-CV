@@ -1,4 +1,4 @@
 # Basic-CV
-HTML/CSS &amp; JavaScript
+HTML/CSS
 
 https://killianfrappartdev.github.io/Basic-CV/
